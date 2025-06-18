@@ -17,6 +17,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/generate-image.tx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/generate-image.ts"],
   "exclude": ["node_modules"]
 }
